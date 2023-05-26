@@ -1,6 +1,6 @@
 ################
 #  Title: Tkinter GUI Project
-#  Author: Maanav Shah 226
+#  Author: Acarya Lall
 #  Date: 2/1/2023
 #  Description: PDF Extract GUI which extracts content and images from the selected user inputted PDF file
 ################
